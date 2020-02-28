@@ -24,6 +24,9 @@ PowerShell includes its own extensive, console-based help (similar to man pages 
 PowerShell documentation by Microsoft : https://docs.microsoft.com/en-us/powershell/ <br />
 Microsoft official website : https://www.microsoft.com <br />
 
+**_PowerShell related technologies_**
+ConEmu : https://conemu.github.io/ <br />
+
 **_PowerShell related articles_**<br />
 PowerShell with Tabs Window Management by superuser : https://superuser.com/questions/863221/powershell-with-tabs-window-management
 
