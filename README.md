@@ -10,7 +10,7 @@ My works related to PowerShell, a task-based command-line shell and scripting la
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="postgresql.png" height="150"> 
+<img src="powershell.png" height="150"> 
 PowerShell is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open-source and cross-platform on 18 August 2016 with the introduction of PowerShell Core. The former is built on .NET Framework while the latter on .NET Core.
 
 In PowerShell, administrative tasks are generally performed by cmdlets (pronounced command-lets), which are specialized .NET classes implementing a particular operation. These work by accessing data in different data stores, like the file system or registry, which are made available to PowerShell via providers. Third-party developers can add cmdlets and providers to PowerShell. Cmdlets may be used by scripts and scripts may be packaged into modules.
