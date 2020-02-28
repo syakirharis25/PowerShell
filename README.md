@@ -35,6 +35,9 @@ Jeffrey Snover : https://github.com/jpsnover, https://twitter.com/jsnover <br />
 Bruce Payette : https://github.com/BrucePay, https://twitter.com/BrucePayette <br />
 James Truher : https://github.com/JamesWTruher <br />
 
+**_PowerShell related articles_** <br />
+Windows Command Prompt LS Equivalent Dir by SkimFeed.com : https://skimfeed.com/blog/windows-command-prompt-ls-equivalent-dir/ <br />
+
 <a name="shell"></a>
 ## 3. Shell.
 In computing, a shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation. It is named a shell because it is the outermost layer around the operating system.
