@@ -22,6 +22,12 @@ PowerShell includes its own extensive, console-based help (similar to man pages 
 <a name="references"></a>
 ## 2. Official references websites.
 PowerShell documentation by Microsoft : https://docs.microsoft.com/en-us/powershell/ <br />
+Microsoft official website : https://www.microsoft.com <br />
+
+**_PowerShell developers_** <br />
+Jeffrey Snover : https://github.com/jpsnover, https://twitter.com/jsnover <br />
+Bruce Payette : https://github.com/BrucePay, https://twitter.com/BrucePayette <br />
+James Truher : https://github.com/JamesWTruher <br />
 
 <a name="shell"></a>
 ## 3. Shell.
